@@ -1,4 +1,6 @@
 export default {
-    primary: "#1B1F3B",
+    backgroundColor: "#1B1F3B",
+    primary: "#080C1C",
     primaryText :"#FFFFFF",
-    secondary: "#FB8B24" }
+    secondary: "#23B5D3",
+    tertiary: "#EA526F" }
